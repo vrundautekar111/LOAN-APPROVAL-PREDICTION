@@ -12,7 +12,7 @@ Pandas
 NumPy
 Scikit-learn
 Logistic Regression
-Flask
+Flask 
 HTML5
 CSS3
 JavaScript
