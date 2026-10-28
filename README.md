@@ -1,6 +1,9 @@
 Loan Approval Prediction System
 
 
+
+
+
 The Loan Approval Prediction System is a machine learning-based web application that predicts whether a loan application is likely to be approved or rejected based on applicant information.
 
 The system uses Python, Pandas, Scikit-learn, and Logistic Regression to train a machine learning model using historical loan application data. The trained model is integrated with a Flask web application, allowing users to enter applicant details such as income, loan amount, credit history, education, employment status, and property area.
